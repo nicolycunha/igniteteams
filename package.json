@@ -10,9 +10,11 @@
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx"
   },
   "dependencies": {
+    "phosphor-react-native": "^1.1.2",
     "react": "18.1.0",
     "react-native": "0.70.10",
-    "styled-components": "^5.3.5"
+    "react-native-svg": "^13.4.0",
+    "styled-components": "^6.1.8"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
@@ -23,7 +25,6 @@
     "@types/react": "^18.0.21",
     "@types/react-native": "^0.70.6",
     "@types/react-test-renderer": "^18.0.0",
-    "@types/styled-components": "^5.1.35",
     "@types/styled-components-react-native": "^5.2.5",
     "@typescript-eslint/eslint-plugin": "^5.37.0",
     "@typescript-eslint/parser": "^5.37.0",

@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/MomoSignature-Regular.ttf",
+      "sha1": "5bc8b96c4016e7856d5e57f087a7214dac496697"
+    },
+    {
+      "path": "src/assets/fonts/Roboto-Variable.ttf",
+      "sha1": "6bd9646ab22c0301ce3adbfe8707213a67900404"
+    }
+  ]
+}
