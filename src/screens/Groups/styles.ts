@@ -5,9 +5,3 @@ export const Container = styled.View`
   background-color: ${({ theme }) => theme.COLORS.GRAY_600};
   padding: 24px;
 `
-// export const Title = styled.Text`
-//   font-family: 'Roboto-Variable';
-//   /* font-family: 'MomoSignature-Regular'; */
-//   font-size: 24px;
-//   color: #fff;
-// `
